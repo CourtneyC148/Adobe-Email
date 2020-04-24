@@ -1,0 +1,2 @@
+# Adobe-Email
+ Promotional Email
